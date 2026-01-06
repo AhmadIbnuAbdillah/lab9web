@@ -1,9 +1,9 @@
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/1ef6f989-ad5e-4b0b-b124-3b1ae2b23ac3" /># lab9web
+# lab9web
 
 Ahmad Ibnu Abdillah <br>
 TI.24.A.5 <br>
 
-#Kode
+# Kode
 ```
 <!DOCTYPE html>
 <html lang="en">
